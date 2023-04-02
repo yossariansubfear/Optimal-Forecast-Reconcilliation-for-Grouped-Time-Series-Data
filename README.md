@@ -11,11 +11,11 @@ Aggregating Forecasts For Grouped Time-Series Data Using Trace Minimization (Min
   forecasts using least squares reconciliation .
 4. Hyndman et al. also suggested that weighted least squares (WLS) taking into account
   on the diagonal of the variance-covariance matrix but ignoring the off-diagonal
-  covariance elements .
-5.Our approach is to extend work of Hyndman et al. to frame the problem in terms of
+  covariance elements.
+5. Our approach is to extend work of Hyndman et al. to frame the problem in terms of
   finding a set of minimum variance unbiased estimates of future values of all time
   series across the entire collection.
-6.This approach is called MinT(minimum trace) reconciliation which has an
+6. This approach is called MinT(minimum trace) reconciliation which has an
   important feature which results in unique analytical solution of incorporating
   information about the correlation structure of the collection.
 

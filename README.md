@@ -28,3 +28,5 @@ Aggregating Forecasts For Grouped Time-Series Data Using Trace Minimization (Min
 
   Eg: Total Bicycle sales can be disaggregated by country , then within each country by
   state ,within each state by region and so on till the outlet level.
+  
+Please go through the PDF of presentation to undertand how data is structured.
